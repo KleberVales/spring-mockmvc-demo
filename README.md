@@ -42,3 +42,5 @@ spring-mockmvc-demo/
 ```http
 GET /hello
 ```
+
+## 🧪 Executando os Testes
