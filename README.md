@@ -44,3 +44,9 @@ GET /hello
 ```
 
 ## 🧪 Executando os Testes
+
+```bash
+
+./gradlew test
+
+```
