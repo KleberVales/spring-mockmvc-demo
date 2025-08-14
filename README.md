@@ -10,3 +10,5 @@ Este projeto demonstra como **habilitar testes com Spring Boot** utilizando **Mo
 - Demonstrar um teste de integração simulando requisições HTTP sem precisar subir o servidor.
 
 ---
+
+## 🗂 Estrutura do Projeto
