@@ -12,3 +12,16 @@ Este projeto demonstra como **habilitar testes com Spring Boot** utilizando **Mo
 ---
 
 ## 🗂 Estrutura do Projeto
+
+```text
+spring-mockmvc-demo/
+├── build.gradle.kts
+├── src
+│ ├── main
+│ │ └── java/com/example/springmockmvc
+│ │ ├── SpringMockMvcDemoApplication.java
+│ │ └── controller/HelloController.java
+│ └── test
+│ └── java/com/example/springmockmvc/controller
+│ └── HelloControllerTest.java
+```
