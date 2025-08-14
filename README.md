@@ -25,3 +25,14 @@ spring-mockmvc-demo/
 │ └── java/com/example/springmockmvc/controller
 │ └── HelloControllerTest.java
 ```
+---
+
+## 📜 Tecnologias Utilizadas
+- **Java 21**
+- **Spring Boot 3.5.4**
+- **Spring Web**
+- **JUnit 5**
+- **MockMvc**
+- **Gradle Kotlin DSL**
+
+---
