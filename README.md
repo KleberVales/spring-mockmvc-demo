@@ -57,7 +57,7 @@ GET /hello
 flowchart TD
     A[Início do Teste] --> B[MockMvc envia requisição GET /hello]
     B --> C[Controller processa a requisição]
-    C --> D[Retorna resposta "Hello World"]
+    C --> D[Retorna resposta Hello World]
     D --> E[MockMvc valida Status HTTP 200]
     E --> F[MockMvc valida conteúdo da resposta]
     F --> G[Fim do Teste - Sucesso]
