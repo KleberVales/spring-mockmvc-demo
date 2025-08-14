@@ -9,3 +9,14 @@ public class SpringMockmvcDemoApplication {
         SpringApplication.run(SpringMockmvcDemoApplication.class, args);
     }
 }
+
+/*
+
+    - Criar projeto spring-mockmvc-demo.
+    - Configurar dependências de teste (spring-boot-starter-test).
+    - Criar um Controller simples e testar com MockMvc usando:
+
+            mockMvc.perform(get("/hello"))
+                .andExpect(status().isOk())
+                .andExpect(content().string("Hello World"));
+*/
