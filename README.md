@@ -36,3 +36,9 @@ spring-mockmvc-demo/
 - **Gradle Kotlin DSL**
 
 ---
+
+## 🔹 Exemplo de Endpoint
+**Request:**
+```http
+GET /hello
+```
